@@ -43,7 +43,7 @@ public:
             }
         }
 
-        cout << "No path found from " << start << " to " << finish << endl;
+        cout << "Tidak ada jalan dari " << start << " ke " << finish << endl;
     }
 };
 
