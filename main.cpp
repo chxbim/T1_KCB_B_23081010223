@@ -76,9 +76,9 @@ int main() {
     g.addEdge("Iasi", "Neamt");
 
     string startCity, goalCity;
-    cout << "Enter start city: ";
+    cout << "Masukkan kota asal: ";
     cin >> startCity;
-    cout << "Enter goal city: ";
+    cout << "Masukkan kota tujuan: ";
     cin >> goalCity;
 
     cout << "\nHasil BFS dari " << startCity << " ke " << goalCity << "..." << endl;
