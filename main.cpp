@@ -60,10 +60,10 @@ int main() {
     g.addEdge("Lugoj", "Mehadia");
     g.addEdge("Mehadia", "Dobreta");
     g.addEdge("Dobreta", "Craiova");
-    g.addEdge("Craiova", "Rimnicu Vilcea");
+    g.addEdge("Craiova", "RV");
     g.addEdge("Craiova", "Pitesti");
-    g.addEdge("Rimnicu Vilcea", "Sibiu");
-    g.addEdge("Rimnicu Vilcea", "Pitesti");
+    g.addEdge("RV", "Sibiu");
+    g.addEdge("RV", "Pitesti");
     g.addEdge("Pitesti", "Bucharest");
     g.addEdge("Fagaras", "Sibiu");
     g.addEdge("Fagaras", "Bucharest");
